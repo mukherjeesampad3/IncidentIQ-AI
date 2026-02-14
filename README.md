@@ -197,12 +197,13 @@ Ensure your ServiceNow user has the following permissions:
 This project is provided as-is for educational and internal use. Please ensure compliance with your organization's policies when integrating with production ServiceNow instances.
 
 ## 📞 Support
-
+Email: learntocode94@gmail.com
 For issues or questions:
 - Check the troubleshooting section above
 - Review ServiceNow and Ollama documentation
 - Verify your environment configuration
 
 ---
+
 
 **Note**: This application is designed for internal enterprise use and requires proper ServiceNow credentials and Ollama installation to function correctly.
